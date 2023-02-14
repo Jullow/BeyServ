@@ -1,0 +1,21 @@
+.footer {
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    height: 70px;
+    top: 1265px;
+    background-color: #202225;
+    left: 0;
+    overflow: hidden;
+    justify-content: center;
+}
+
+.text-footer {
+    margin-top: 3vh;
+    color: #fff;
+}
+
+.under {
+    color: #1e1e1e;
+    font-size: 15px;
+}
